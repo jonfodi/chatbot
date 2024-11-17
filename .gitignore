@@ -1,0 +1,38 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Flask server logs
+*.log
+
+# Environment variables
+.env
+
+# Byte-compiled and cache files
+*.pyc
+*.pkl
+*.pyo
+*.swp
+*.swo
+*.db
+
+# MacOS specific files
+.DS_Store
+
+# PyCharm and VSCode configuration
+.idea/
+.vscode/
+
+# Python packaging files
+*.egg-info/
+dist/
+build/
+
+# Model-related cache (if transformers uses caching)
+.cache/
+transformers_cache/
