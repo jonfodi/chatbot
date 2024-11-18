@@ -3,3 +3,7 @@ transformers
 torch
 faiss-cpu
 sentence-transformers
+evaluate
+absl-py 
+nltk 
+rouge-score
