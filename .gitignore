@@ -36,3 +36,5 @@ build/
 # Model-related cache (if transformers uses caching)
 .cache/
 transformers_cache/
+AWSCLIV2.pkg 
+
